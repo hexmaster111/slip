@@ -1,2 +1,9 @@
 # slip
-A Ui Component library for Clay github.com/nicbarker/clay
+A Ui Component library for Clay 
+
+http://www.github.com/nicbarker/clay
+
+
+
+## Components
+
